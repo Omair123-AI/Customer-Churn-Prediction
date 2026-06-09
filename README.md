@@ -92,12 +92,14 @@ Customer-Churn-Prediction/
 
 ## 🚀 Quick Start
 
-### 1. Setup - Create virtual environment
+### 1. Setup - Create virtual environment & env file
 
 ```bash
 python -m venv .venv
 .venv\Scripts\activate        # Windows
 # source .venv/bin/activate   # Mac/Linux
+
+# Copy .env.example file as .env 
 ```
 ---
 
