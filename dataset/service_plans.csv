@@ -1,0 +1,9 @@
+plan_id,plan_name,monthly_price,features,contract_type,discount_eligible
+P001,Basic DSL,29.99,Internet 25Mbps,Month-to-month,Yes
+P002,Standard DSL,49.99,Internet 50Mbps + Phone,Month-to-month,Yes
+P003,Premium DSL,69.99,Internet 100Mbps + Phone + TV,One year,Yes
+P004,Fiber Basic,59.99,Fiber 200Mbps,Month-to-month,Yes
+P005,Fiber Pro,79.99,Fiber 500Mbps + Phone,One year,Yes
+P006,Fiber Ultimate,99.99,Fiber 1Gbps + Phone + TV + Streaming,Two year,No
+P007,Phone Only,19.99,Unlimited Calls,Month-to-month,Yes
+P008,Bundle Saver,89.99,Fiber 500Mbps + Phone + TV,Two year,Yes
